@@ -34,4 +34,4 @@ Puedes ver la implementación del patrón Decorator en este [enlace de Replit](h
 ### Pruebas Unitarias
 Las pruebas unitarias para el patrón Decorator están disponibles en el mismo proyecto de Replit.
 
-![Pruebas unitarias para el patrón Decorator](https://github.com/nostcoper/DesingPatterns/blob/main/imagen_2024-05-23_223312598.png)
+![Pruebas unitarias para el patrón Decorator](https://github.com/nostcoper/DesingPatterns/blob/main/imagen_2024-05-23_223248378.png)
