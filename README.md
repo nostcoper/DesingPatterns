@@ -38,8 +38,10 @@ Las pruebas unitarias para el patrón Decorator están disponibles en el mismo p
 
 ## Patrón State
 State es un patrón de diseño de comportamiento que permite a un objeto alterar su comportamiento cuando su estado interno cambia. Parece como si el objeto cambiara su clase.
+### Implementación
 Puedes ver la implementación del patrón Decorator en este [enlace de Replit](https://replit.com/@NostcoperZ/State).
 
 ## Patrón Strategy
 Strategy es un patrón de diseño de comportamiento que te permite definir una familia de algoritmos, colocar cada uno de ellos en una clase separada y hacer sus objetos intercambiables.
+### Implementación
 Puedes ver la implementación del patrón Decorator en este [enlace de Replit](https://replit.com/@NostcoperZ/Strategy).
