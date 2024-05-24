@@ -21,7 +21,7 @@ Puedes ver la implementación del patrón Mediator en este [enlace de Replit](ht
 
 ### Pruebas Unitarias
 Las pruebas unitarias para el patrón Mediator están disponibles en el mismo proyecto de Replit.
-<span>https://github.com/nostcoper/DesingPatterns/blob/main/imagen_2024-05-23_223248378.png</span><span>)</span>
+![Pruebas unitarias para el patrón Mediator](https://github.com/nostcoper/DesingPatterns/blob/main/imagen_2024-05-23_223248378.png)
 
 ## Patrón Decorator
 
