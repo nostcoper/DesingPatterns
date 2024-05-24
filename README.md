@@ -35,3 +35,11 @@ Puedes ver la implementación del patrón Decorator en este [enlace de Replit](h
 Las pruebas unitarias para el patrón Decorator están disponibles en el mismo proyecto de Replit.
 
 ![Pruebas unitarias para el patrón Decorator](https://github.com/nostcoper/DesingPatterns/blob/main/imagen_2024-05-23_223248378.png)
+
+## Patrón State
+State es un patrón de diseño de comportamiento que permite a un objeto alterar su comportamiento cuando su estado interno cambia. Parece como si el objeto cambiara su clase.
+Puedes ver la implementación del patrón Decorator en este [enlace de Replit](https://replit.com/@NostcoperZ/State).
+
+## Patrón Strategy
+Strategy es un patrón de diseño de comportamiento que te permite definir una familia de algoritmos, colocar cada uno de ellos en una clase separada y hacer sus objetos intercambiables.
+Puedes ver la implementación del patrón Decorator en este [enlace de Replit](https://replit.com/@NostcoperZ/Strategy).
